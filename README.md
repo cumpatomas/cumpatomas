@@ -76,5 +76,5 @@ Also you can check the repo of my Recipes App that is available on Google Play:
 
 [**RECIPE APP**](https://github.com/cumpatomas/Recetas_De_Bruno_App)
 
-## Please I need your feedback :) contact me 👉 **cumpatomas@gmail.com**
+### I need your feedback :) you can contact me 👉 **cumpatomas@gmail.com**
 
