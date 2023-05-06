@@ -43,7 +43,7 @@ I used:
 1. [x] Lazy Colum list (Jetpack Compose)
 2. [x] Item Model design
 3. [x] Filters in search results
-4. [x] Favorite searches saved in Room local DataBAse
+4. [x] Favorite searches saved in Room local database
 
 https://user-images.githubusercontent.com/102058754/236602636-8ca9d006-dc33-416f-8db8-17fb008c27e6.mp4 
 
