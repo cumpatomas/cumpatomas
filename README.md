@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/102058754/236602647-29824c36-2510-4810
 
 
 ```kotlin
-if(youAreStillReading) {
+if (youAreStillReading) {
     AndroidDeveloper.motivation ++
 }
 ```
@@ -76,11 +76,5 @@ Also you can check the repo of my Recipes App that is available on Google Play:
 
 [**RECIPE APP**](https://github.com/cumpatomas/Recetas_De_Bruno_App)
 
-## Please I need your feedback :) 
-
-
-
-
-
-
+## Please I need your feedback :) contact me 👉 ### **cumpatomas@gmail.com**
 
