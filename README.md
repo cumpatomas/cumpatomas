@@ -45,7 +45,9 @@ I used:
 3. [x] Filters in search results
 4. [x] Favorite searches saved in Room local DataBAse
 
-https://user-images.githubusercontent.com/102058754/236602636-8ca9d006-dc33-416f-8db8-17fb008c27e6.mp4 https://user-images.githubusercontent.com/102058754/236602626-8ce78a4b-40e2-4f81-872a-8664f498a565.mp4
+https://user-images.githubusercontent.com/102058754/236602636-8ca9d006-dc33-416f-8db8-17fb008c27e6.mp4 
+
+https://user-images.githubusercontent.com/102058754/236602626-8ce78a4b-40e2-4f81-872a-8664f498a565.mp4
 
 
 The Quote screen makes a list of items from the different providers and the user can create a PDF with the estimate (total per website)
