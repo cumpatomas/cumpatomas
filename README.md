@@ -79,6 +79,9 @@ Also you can check the repo of my Recipes App that is available on Google Play:
 ### I need your feedback :) you can contact me 
 
 👉 **cumpatomas@gmail.com**
+
 👉 [Linkedin](https://www.linkedin.com/in/juan-pablo-tomas-203693274/)
-👉 [Manfred](https://www.getmanfred.com/perfil-v2/84f790fd-5061-4ce1-b696-6eb1cb9eba29))
+
+👉 [Manfred](https://www.getmanfred.com/perfil-v2/84f790fd-5061-4ce1-b696-6eb1cb9eba29)
+
 👉 [HyperSkill](https://hyperskill.org/profile/201988658)
