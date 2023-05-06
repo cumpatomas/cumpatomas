@@ -7,7 +7,7 @@ data class AndroidDeveloper(
     val languaje = "Kotlin",
     var experience = 1,
     var motivation = 100, // %
-    var isHired = false
+    var isLookingForJob = true
 )
 ```
 ### I'm...
