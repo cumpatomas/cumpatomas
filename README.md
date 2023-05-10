@@ -82,6 +82,6 @@ Also you can check the repo of my Recipes App that is available on Google Play:
 
 👉 [Linkedin](https://www.linkedin.com/in/juan-pablo-tomas-203693274/)
 
-👉 [Manfred]([[https://www.getmanfred.com/perfil-v2/84f790fd-5061-4ce1-b696-6eb1cb9eba29](https://mnf.red/84f790fd-5061-4ce1-b696-6eb1cb9eba29/timeline)](https://mnf.red/84f790fd-5061-4ce1-b696-6eb1cb9eba29/classic))
+👉 [Manfred](https://mnf.red/84f790fd-5061-4ce1-b696-6eb1cb9eba29/classic)
 
 👉 [HyperSkill](https://hyperskill.org/profile/201988658)
