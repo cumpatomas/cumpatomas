@@ -5,7 +5,7 @@ data class AndroidDeveloper(
     val name = "Juan Pablo Tomas",
     var role = "Junior Android Developer"
     val languaje = "Kotlin",
-    var experience = 1.5,
+    var experience = 2.0,
     var motivation = 100, // %
     var isLookingForJob = true
 )
