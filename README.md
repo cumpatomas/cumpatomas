@@ -3,7 +3,7 @@
 ```kotlin
 data class AndroidDeveloper(
     val name = "Juan Pablo Tomas",
-    var role = "Junior Android Developer"
+    var role = "Android Developer"
     val languaje = "Kotlin",
     var experience = 2.0,
     var motivation = 100, // %
