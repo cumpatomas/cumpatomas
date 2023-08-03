@@ -71,12 +71,19 @@ if (youAreStillReading) {
     AndroidDeveloper.motivation ++
 }
 ```
+I'm also interested in animations with Rive Software, so I've developed this responsive Login Screen:
+
+[[**ANIMATED LOGIN SCREEN**](https://github.com/cumpatomas/rive-on-android)
 
 Also you can check the repo of my Recipes App that is available on Google Play:
 
 [**RECIPE APP**](https://github.com/cumpatomas/Recetas_De_Bruno_App)
 
-### I need your feedback :) you can contact me 
+Or the Seinfeld Trivia App I've also developed for the fans of this sitcom:
+
+[**SEINFELD TRIVIA APP**]([https://github.com/cumpatomas/Recetas_De_Bruno_App](https://github.com/cumpatomas/SeinfeldTriviaApp)
+
+### I need your feedback :) you can contact me at:
 
 👉 **cumpatomas@gmail.com**
 
