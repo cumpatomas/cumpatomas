@@ -5,7 +5,7 @@ data class AndroidDeveloper(
     val name = "Juan Pablo Tomas",
     var role = "Android Developer"
     val languaje = "Kotlin",
-    var experience = 2.0,
+    var experience = 3.0,
     var motivation = 100, // %
 )
 ```
