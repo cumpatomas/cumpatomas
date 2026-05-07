@@ -10,7 +10,7 @@ data class AndroidDeveloper(
 )
 ```
 ### I'm...
-* Junior Android Developer 📱
+* Mid Android Developer 📱
 
 
 * Kotlin fan ![kot_logo](https://user-images.githubusercontent.com/102058754/236602534-ceee46b7-61bb-43b0-a3bf-c133f337bc4f.png)
